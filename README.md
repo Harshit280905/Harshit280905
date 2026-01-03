@@ -1,13 +1,10 @@
-<h1 align="center">Hi 👋, I'm Harshit Batra</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi, I'm Harshit Batra</h1>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshit280905" alt="harshit280905" /></a> </p>
 
-- 🔭 I’m currently working on **frxsh**
+- 🔭 I’m currently working on **ClassSync**
 
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **Python**
+- 🌱 I’m currently learning **Next**
 
 - 📫 How to reach me **batraharshit2809@gmail.com**
 
